@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3",LED_D3.0mm,3,LED,
+"F1, F2, F3",Fuse_Bourns_MF-RG300,3,MF-R050,
+J1,BoxHeader_2x08_2.54mm_Europower,1,IN,
+J2,BoxHeader_2x08_2.54mm_Europower,1,OUT,
+R1,0603,1,1K,
+"R2, R3",0603,2,2.2K,
+"SW1, SW2, SW3",SPDT,3,SW_SPDT,
