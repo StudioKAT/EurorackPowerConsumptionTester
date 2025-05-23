@@ -1,5 +1,5 @@
 # Eurorack Power Consumption Tester
-![alt text](Images/EPCT_Side.jpeg)
+![Overview](v1.0/Images/EPCT_Side.jpeg)
 
 ## 概要 / Overview
 
