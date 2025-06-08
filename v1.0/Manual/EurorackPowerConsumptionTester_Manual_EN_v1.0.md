@@ -1,5 +1,5 @@
 # Eurorack Power Consumption Tester Manual (English)
-![alt text](../Images/EPCT_Side.jpeg)
+![EPCT_Image](../../Images/EPCT_Side.jpeg)
 
 ## Overview
 
@@ -47,7 +47,7 @@ Used in combination with a digital multimeter, it allows measurement of current 
 
 ## Usage Instructions
 
-![alt text](../Images/EPCT_Test.jpg)
+![Measurement](../../Images/EPCT_Test.jpg)
 
 1. Ensure your Eurorack power supply is **OFF**.  
 2. Connect the power supply and the tester’s **IN** header using a 16P-16P IDC cable.  

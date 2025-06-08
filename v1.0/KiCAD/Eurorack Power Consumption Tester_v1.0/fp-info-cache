@@ -1,4 +1,4 @@
-25839081412539462
+25865433875145313
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -103250,6 +103250,20 @@ CCG15-24-05S
 6
 6
 kat_eurorack
+C_THT_SMD_D4.7mm_W2.5mm_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.7*2.5mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 4.7mm width 2.5mm Capacitor
+0
+4
+2
+kat_eurorack
+DKA30_MWU
+
+DKA30A-12 
+0
+7
+7
+kat_eurorack
 DMP-8_P1.27mm_HandSolder
 NJM_DMP-8
 
@@ -103397,12 +103411,26 @@ PH_HDMI
 0
 0
 kat_eurorack
+PH_Joystick
+
+
+0
+1
+1
+kat_eurorack
 PH_LED_3.0mm
 
 
 0
 1
 0
+kat_eurorack
+PH_LED_3.0mm_Pad
+
+
+0
+1
+1
 kat_eurorack
 PH_LED_LightGuide_2.9mm
 
@@ -103432,12 +103460,33 @@ PH_RK097_15mmKnob_BI_UNI
 1
 0
 kat_eurorack
+PH_RK097_15mmKnob_Pad
+
+
+0
+1
+1
+kat_eurorack
+PH_RK097_15mmKnob_Uni_Pad
+
+
+0
+1
+1
+kat_eurorack
 PH_RK097_15mmKnob_center
 
 
 0
 1
 0
+kat_eurorack
+PH_RK097_Pad
+
+
+0
+1
+1
 kat_eurorack
 PH_RV09
 
@@ -103472,7 +103521,7 @@ PH_RV09_center
 
 0
 1
-0
+1
 kat_eurorack
 PH_RotarySwitch
 
@@ -103495,6 +103544,13 @@ mounting hole 5.5mm no annular
 1
 0
 kat_eurorack
+PH_TactileSwitch_5.5mm_Pad
+Mounting Hole 5.5mm, no annular
+mounting hole 5.5mm no annular
+0
+1
+1
+kat_eurorack
 PH_ToggleSwitch_5.1mm
 Mounting Hole 5.5mm, no annular
 mounting hole 5.5mm no annular
@@ -103502,12 +103558,26 @@ mounting hole 5.5mm no annular
 1
 0
 kat_eurorack
+PH_ToggleSwitch_5.1mm_Pad
+Mounting Hole 5.5mm, no annular
+mounting hole 5.5mm no annular
+0
+1
+1
+kat_eurorack
 PH_ToggleSwitch_6.4
 Mounting Hole 6.4mm, no annular, M6
 mounting hole 6.4mm no annular m6
 0
 1
 0
+kat_eurorack
+PH_ToggleSwitch_6.4mm_Pad
+Mounting Hole 6.4mm, no annular, M6
+mounting hole 6.4mm no annular m6
+0
+1
+1
 kat_eurorack
 Panel_2HP
 
@@ -103549,7 +103619,7 @@ Panel_6HP
 
 0
 2
-0
+1
 kat_eurorack
 Panel_6HP_1U
 
@@ -103563,7 +103633,7 @@ Panel_8HP
 
 0
 4
-0
+1
 kat_eurorack
 Panel_8HP_1U
 
@@ -103782,6 +103852,13 @@ rotary encoder
 12
 11
 kat_eurorack
+SON_B30M-13_DIO
+
+MSB30M-13 
+0
+4
+4
+kat_eurorack
 SOP-14
 14-PIN SOP-14 PACKAGE
 14-PIN SOP-14 PACKAGE
@@ -103867,6 +103944,27 @@ StduioKAT_logo_2
 0
 kat_eurorack
 StduioKAT_logo_back
+
+
+0
+0
+0
+kat_eurorack
+StudioKAT_logo
+
+
+0
+0
+0
+kat_eurorack
+StudioKAT_logo_2
+
+
+0
+0
+0
+kat_eurorack
+StudioKAT_logo_back
 
 
 0
@@ -104009,6 +104107,13 @@ kat_eurorack
 Vactrol_LCR0203
 Axial Vactrol (http://www.qsl.net/wa1ion/vactrol/vactrol.pdf)
 vactrol
+0
+4
+4
+kat_eurorack
+Vactrol_common
+Terminal Block Xinya XY308-2.54-2P, 2 pins, pitch 2.54mm, size 5.58x6.5mm^2, drill diameter 1.2mm, pad diameter 2mm, see http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
+THT Terminal Block Xinya XY308-2.54-2P pitch 2.54mm size 5.58x6.5mm^2 drill 1.2mm pad 2mm
 0
 4
 4

@@ -1,5 +1,5 @@
 # Eurorack Power Consumption Tester マニュアル（日本語）
-![alt text](../Images/EPCT_Side.jpeg)
+![EPCT_Image](../../Images/EPCT_Side.jpeg)
 
 ## 概要
 
@@ -48,7 +48,7 @@
 
 ## 使用方法
 
-![alt text](../Images/EPCT_Test.jpg)
+![Measurement](../../Images/EPCT_Test.jpg)
 
 1. ケースの電源が**オフ**であることを確認する。  
 2. 16P-16Pケーブルで、ケースの電源と測定治具の**IN端子**を接続する。  
